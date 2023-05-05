@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/C++ UTN/Ejercicios/Ejercicio1",
-      "program": "g:/C++ UTN/Ejercicios/Ejercicio1/build/Debug/outDebug",
+      "cwd": "g:/UTN/C UTN/TrabajoInvestigacion",
+      "program": "g:/UTN/C UTN/TrabajoInvestigacion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -4,7 +4,12 @@
     "Ejercicio2.1.C": "cpp",
     "Ejercicio2.3.C": "cpp",
     "Ejercicio2.2.C": "cpp",
-    "CorregirProblema.C": "cpp"
+    "CorregirProblema.C": "cpp",
+    "stdio.h": "c",
+    "Ejercicio1.C": "cpp",
+    "TrianguloPascal.C": "cpp",
+    "cmath": "c",
+    "Ejemplo3.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
