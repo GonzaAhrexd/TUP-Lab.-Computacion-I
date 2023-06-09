@@ -76,6 +76,5 @@ int main(){
 
     printf("La palabra en la que mas se repite es la numero %i, y aparece %i veces", masVeces+1, vecesEncontrado[masVeces]);
 
-
     return 0;
 }
