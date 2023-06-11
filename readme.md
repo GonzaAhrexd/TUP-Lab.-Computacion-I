@@ -1,6 +1,6 @@
-# Trabajos de Laboratorio de Computación - Tecnicatura en Programación
+# Trabajos de Laboratorio de Computación - Tecnicatura Universitaria en Programación (UTN)
 
-Este repositorio contiene los trabajos realizados durante la cátedra de Laboratorio de Computación en la Tecnicatura Universitaria en Programación. En esta asignatura, se abordaron diversos temas relacionados con el lenguaje de programación C y la programación orientada a objetos.
+Este repositorio contiene los trabajos realizados durante la cátedra de Laboratorio de Computación en la Tecnicatura Universitaria en Programación de la UTN. En esta asignatura, se abordaron diversos temas relacionados con el lenguaje de programación C.
 
 ## Temas
 
