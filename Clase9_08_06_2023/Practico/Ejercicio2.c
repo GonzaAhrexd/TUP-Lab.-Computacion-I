@@ -1,12 +1,3 @@
-/*
-Ejercicio N° 2: Realizar el ejercicio usando las funciones
-* Ingresar dos cadenas llamadas C1 y C2.
-* Mostrar el contenido de C1 y C2.
-* Indicar cuál es la cadena más larga.
-* Comparar ambas cadenas
-* Concatenar una cadena a la cadena más corta.
-*/
-
 #include <stdio.h>
 #include <string.h>
 int main(){
