@@ -29,11 +29,6 @@ Este repositorio contiene los trabajos realizados durante la cátedra de Laborat
    - Lectura y escritura de datos en archivos
    - Manejo de punteros y descriptores de archivo
 
-6. Programación Orientada a Objetos
-   - Principios de la programación orientada a objetos (POO)
-   - Definición y uso de clases y objetos en C
-   - Encapsulación, herencia y polimorfismo en C
-
 
 ## Estructura del Repositorio
 
@@ -48,7 +43,9 @@ El repositorio está organizado en carpetas correspondientes a cada una de las c
 - Clase 7 (11-05-2023)  
 - Clase 8 (18-05-2023)  
 - Clase 9 (08-06-2023)
-- Estructuras
-- Parcial2
+- Clase 10 (15-06-2023)
+- Parcial 2
+- Parcial 3
+- Repaso Estructruas
 - Trabajo de Investigación Recursividad
 - Trabajo de Investigación Archivos

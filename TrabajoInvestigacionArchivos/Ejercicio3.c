@@ -57,7 +57,7 @@ struct alumnos{ /*Creamos la estructura alumnos con DNI, apellido, nombre y nota
         printf("\nLa cantidad de alumnos es %i ", cantidadAlumnos); /*Mostramos la cantidad de alumnos*/
         printf("\nEl alumno con la nota mas alta fue %s %s ", notaAlta.nombre, notaAlta.apellido); /*Mostramos a quien pertenece la nota mas  alta, llamando a la estructura en donde la guardamos*/
         printf("\nEl alumno con la nota mas baja fue %s %s ", notaBaja.nombre, notaBaja.apellido); /*Mostramos a quien pertenece la nota mas  baja, llamando a la estructura en donde la guardamos*/
-        printf("\nEl promedio general es: %i", (float)sumaNotas / (float)cantidadAlumnos); /*Sacamos el promedio general dividiendo la suma de las notas por la cantidad de alumnos*/
+        printf("\nEl promedio general es: %.2f", (float)sumaNotas / (float)cantidadAlumnos); /*Sacamos el promedio general dividiendo la suma de las notas por la cantidad de alumnos*/
         printf("\nLa cantidad de alumnos con nota mayor o igual a 6 es %i ", notaMayor6);    /*Mostramos la cantidad de alumnos con nota mayor a 6 */  
         printf("\nLa cantidad de alumnos con nota menor a 6 es %i ", notaMenor6);  /*Mostramos la cantidad de alumnos con nota menor a 6*/
         printf("\nEl porcentaje de alumnos con nota mayor a 6 es %.2f %%", ((float)notaMayor6/(float)cantidadAlumnos)  *100); /*Mostramo el porcentaje que ocupa los alumnos con nota mayor a 6 con  respecto al total*/
